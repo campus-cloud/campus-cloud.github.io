@@ -1,6 +1,11 @@
 # Table of Contents
 * [About Campus Cloud](#about-campus-cloud)
+* [Live Deployment](#live-deployment)
 * [Mockups](#mockups)
+* [Project Management](#project-management)
+  * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
 
 # About Campus Cloud 
 Campus Cloud is an application that provides a clean, easy-to-use interface to view and explore all of the Registered Independent Organizations (RIOs) at UH Mānoa.
