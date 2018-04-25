@@ -27,7 +27,7 @@ We made changes to the browse page with a new search feature for users. Admins c
 Clubs are also now viewable.
 ![mockup of view](/images/view.PNG)
 
-##History
+## History
 The initial versions of the pages were based off of these diagrams, and are shown below.
 ![Initial mockup of landing page](/images/landing.png)
 
