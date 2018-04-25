@@ -43,6 +43,16 @@ We created rough mockups of various pages in order to conceptually define what w
 
 # Feedback
 
+"The search feature is really cool." -UH student
+
+"This makes finding clubs way easier than whatever we had before." -UH student
+
+"It seems like the club admins don't get a lot of power." -UH student
+
+"The tags make for a cool way to sort clubs. Though, how do the tags get updated for all the clubs?" -UH student
+
+"I think the club page that appears when you click the view seems a little bland." -UH student
+
 # Project Management
 ## Milestone 1
 [Project Board](https://github.com/campus-cloud/campus-cloud/projects/1)
