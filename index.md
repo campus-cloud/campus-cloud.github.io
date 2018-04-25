@@ -22,7 +22,7 @@ The import RIOs page
 ![mockup of import](/images/import.PNG)
 
 We made changes to the browse page with a new search feature for users. Admins can now delete, activate (visible to users), and deactivate (invisible to users) clubs.
-![mockup of import](/images/import.PNG)
+![mockup of import](/images/browse.PNG)
 
 History
 The initial versions of the pages were based off of these diagrams, and are shown below.
@@ -30,7 +30,8 @@ The initial versions of the pages were based off of these diagrams, and are show
 
 ![Initial mockup of club list page](/images/club-list.png)
 
-![Initial mockup of browse page](/images/browse.png)
+![Initial mockup of user page](/images/user-page.png)
+
 
 We created rough mockups of various pages in order to conceptually define what we wanted on each page.
 ![Mockup of admin page and club settings](/images/mockup-1.jpg)
