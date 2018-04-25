@@ -18,13 +18,16 @@ We have made new addition for our admin role.
 A new tab to import RIOs
 ![mockup of admin landing page](/images/adminland.PNG)
 
-The import RIOs page
+The import RIOs page.
 ![mockup of import](/images/import.PNG)
 
 We made changes to the browse page with a new search feature for users. Admins can now delete, activate (visible to users), and deactivate (invisible to users) clubs.
 ![mockup of import](/images/browse.PNG)
 
-History
+Clubs are also now viewable.
+![mockup of view](/images/view.PNG)
+
+##History
 The initial versions of the pages were based off of these diagrams, and are shown below.
 ![Initial mockup of landing page](/images/landing.png)
 
