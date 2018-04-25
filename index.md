@@ -49,9 +49,23 @@ We created rough mockups of various pages in order to conceptually define what w
 
 "It seems like the club admins don't get a lot of power." -UH student
 
-"The tags make for a cool way to sort clubs. Though, how do the tags get updated for all the clubs?" -UH student
+"The tags make for a cool way to sort clubs. Although, how do the tags get updated for all the clubs?" -UH student
 
-"I think the club page that appears when you click the view seems a little bland." -UH student
+"I think the view club page seems a little bland." -UH student
+
+# Development
+
+If you want to run our application then you're going to have to...
+
+1. Download meteor
+
+2. Go to our Github page and download our project
+
+3. Find the location of the project and cd into the app directory
+
+4. Start by installing the libraries using the command: $ meteor npm install
+
+5. Finally, you can run our program by entering the command: $ meteor npm run start
 
 # Project Management
 ## Milestone 1
