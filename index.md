@@ -41,6 +41,8 @@ We created rough mockups of various pages in order to conceptually define what w
 
 ![Mockup of club list and user page](/images/mockup-2.jpg)
 
+# Feedback
+
 # Project Management
 ## Milestone 1
 [Project Board](https://github.com/campus-cloud/campus-cloud/projects/1)
