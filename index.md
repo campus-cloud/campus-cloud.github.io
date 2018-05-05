@@ -6,6 +6,8 @@
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
+* [User Study](#user-study)
+
 
 # About Campus Cloud 
 Campus Cloud is an application that provides a clean, easy-to-use interface to view and explore all of the Registered Independent Organizations (RIOs) at UH Mānoa. Users can explore the RIO list and view details about specific clubs. Users are allowed to sign up, and add interests to their profile. This allows the system to email the user to notify them when a club is created that matches any of their interests. Admins are able to create clubs and assign an owner to them. Then, the club owner can edit the club details. With our application, we're hoping to allow ease of access to view all of the clubs at UH and make it even easier to find the clubs that may interest you.
@@ -41,7 +43,7 @@ We created rough mockups of various pages in order to conceptually define what w
 
 ![Mockup of club list and user page](/images/mockup-2.jpg)
 
-# Feedback
+# User Study
 
 "The search feature is really cool." -UH student
 
